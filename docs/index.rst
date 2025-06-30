@@ -3,7 +3,7 @@ How to Contact Kenwood Customer Service?
 
 Kenwood is a globally recognized brand known for its innovative electronics and high-quality car audio, kitchen appliances, and communication devices. Whether you're experiencing a technical issue with your product, need to locate a service center, or want to inquire about a warranty, reaching **Kenwood customer service** can help resolve your concern efficiently.
 
-.. image:: start.png
+.. image:: service-now.gif
    :alt: My Project Logo
    :width: 400px
    :align: center
